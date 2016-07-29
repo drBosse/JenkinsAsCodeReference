@@ -45,6 +45,7 @@ source ~/.bashrc
 
 ```
 mkdir -p $HOME/jenkins-backup/jobs
+mkdir -p $HOME/jenkins-backup/userContent
 mkdir -p $HOME/jenkins-backup/slave/gradle
 mkdir -p $HOME/jenkins-backup/registry
 chmod -R 777 $HOME/jenkins-backup
